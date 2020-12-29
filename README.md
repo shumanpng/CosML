@@ -8,6 +8,7 @@ PyTorch 1.2
 ```
 
 ```
+cd cosml/
 virtualenv --python=/usr/bin/python3.6 dgml_venv_py36
 source dgml_venv_py36/bin/activate
 pip install -r requirements.txt
